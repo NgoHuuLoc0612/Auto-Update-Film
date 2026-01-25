@@ -1,0 +1,27 @@
+# Discord Bot Dependencies
+discord.py
+aiohttp
+
+# Database
+SQLAlchemy
+aiosqlite
+
+# Configuration
+python-dotenv
+
+asyncpg
+psycopg2-binary
+
+# Utilities
+python-dateutil
+
+# Optional: PostgreSQL support
+# asyncpg>=0.29.0
+# psycopg2-binary>=2.9.9
+
+# Optional: MySQL support
+# aiomysql>=0.2.0
+
+# Optional: Redis caching
+redis
+aioredis
