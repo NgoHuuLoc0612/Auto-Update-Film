@@ -1,1 +1,2 @@
 Add Supabase
+Add new commands (/visualize-ratings, /genre-analysis, /3d-movie-analysis, /watchlist-radar, /compare, /versus-stats, /battle-royale, /server-analytics)
